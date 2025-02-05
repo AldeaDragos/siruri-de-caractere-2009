@@ -8,7 +8,7 @@ using namespace std;
 
 //VARIANTA 2
 
-void sol18() {
+void sol1() {
 
     char s[200] = "bacalaureat";
 
@@ -18,7 +18,7 @@ void sol18() {
 
 }
 
-void sol19() {
+void sol2() {
 
     int v[] = { -3,-10,0,7,-5,7,51,-800,6,3798 };
 
@@ -32,7 +32,7 @@ void sol19() {
 
 //VARIANTA 4
 
-void sol20() {
+void sol3() {
 
     char c[200] = "cdsDAJJjkerA";
 
@@ -42,7 +42,7 @@ void sol20() {
 
 }
 
-void sol21() {
+void sol4() {
 
     int a[100][100];
     int n = 4;
@@ -55,7 +55,7 @@ void sol21() {
 
 }
 
-void sol22() {
+void sol5() {
 
     int v[] = { 421,1241,347,329,902,549,2176,2412,4385 };
 
@@ -67,7 +67,7 @@ void sol22() {
 
 }
 
-void sol23() {
+void sol6() {
 
     int a = 125854;
 
@@ -78,7 +78,7 @@ void sol23() {
 
 //VARIANTA 5
 
-void sol24() {
+void sol7() {
 
     char s[200] = "sebastian";
 
@@ -88,7 +88,7 @@ void sol24() {
 
 }
 
-void sol25() {
+void sol8() {
 
     int a[100][100];
     int n = 4;
@@ -100,7 +100,7 @@ void sol25() {
 
 }
 
-void sol26() {
+void sol9() {
 
     int n = 10305;
 
@@ -108,7 +108,7 @@ void sol26() {
 
 }
 
-void sol27() {
+void sol10() {
 
     int n = 45;
 
@@ -124,7 +124,9 @@ void sol27() {
     numerePrimeSir(v, dim);
 }
 
-void sol28() {
+//VARIANTA 6
+
+void sol11() {
 
     char s[200] = "mare   frig rosu";
 
@@ -133,7 +135,7 @@ void sol28() {
     cout << s << endl;
 }
 
-void sol29() {
+void sol12() {
 
     int v[200] = { 1,7,3,4 };
 
@@ -142,7 +144,7 @@ void sol29() {
     sumaAfisare(v, dim);
 }
 
-void sol30() {
+void sol13() {
 
     int v[200] = { 1,1,1,5,5,5,5,9,9,11,20,20,20 };
 
@@ -152,7 +154,9 @@ void sol30() {
 
 }
 
-void sol31() {
+//VARIANTA 7
+
+void sol14() {
 
     char s[200] = "mare  frig saci";
 
@@ -162,7 +166,7 @@ void sol31() {
 }
 
 
-void sol32() {
+void sol15() {
 
     int v[9] = { 1,2,3,4,5,6,7,8,9 };
 
@@ -176,7 +180,7 @@ void sol32() {
 
 }
 
-void sol33() {
+void sol16() {
 
     int n = 63;
 
@@ -184,7 +188,10 @@ void sol33() {
 
 }
 
-void sol34() {
+//VARIANTA 10
+
+
+void sol17() {
 
     char s[200] = "abbacdde";
 
@@ -192,7 +199,7 @@ void sol34() {
 
 }
 
-void sol35() {
+void sol18() {
 
     int a[100][100], n = 2, p = 3;
 
@@ -202,7 +209,9 @@ void sol35() {
 
 }
 
-void sol36() {
+//VARIANTA 25
+
+void sol19() {
 
     char s[200] = "cojoc";
 
@@ -210,7 +219,7 @@ void sol36() {
 
 }
 
-void sol37() {
+void sol20() {
 
     int a[100][100] = { {2,1,1,0},{1,1,1,1},{2,2,2,1},{1,2,1,1} };
 
